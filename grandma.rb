@@ -12,7 +12,7 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-def speak_to_grandma (phrase)
+def speak_to_grandma(phrase)
   "I LOVE YOU TOO PUMPKIN"
   #if (if) the phrase is not equal (!=) to the all uppercase (phrase.upcase) version of the phrase then theyre not shouting and we should respond with "HUH?! SPEAK UP, SONNY"
   if phrase !=phrase.upcase
